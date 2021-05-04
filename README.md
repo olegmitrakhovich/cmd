@@ -1,4 +1,4 @@
 # cmd
 commands
 
-wpscan --url http://x.x.x.x:80 --wp-content-dir wp-content -e vp,vt,tt,cb,dbe,u,m --plugins-detection aggressive --plugins-version-detection aggressive 2>&1 
+wpscan --url https://x.x.x.x.com/directory --wp-content-dir wp-content -e vp,vt,tt,cb,dbe,u,m --plugins-detection aggressive --plugins-version-detection aggressive 2>&1 
